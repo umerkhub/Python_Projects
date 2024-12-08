@@ -2,7 +2,7 @@
 # Python_Projects
 
 A collection of beginner-friendly Python projects created for practice and skill enhancement. These projects were built using basic Python and are ideal for exploring various programming concepts and functionalities.
-## Projects Included:
+## Projects Included
 
 - **Alarm Clock**: A Python application to set and manage alarms.  
 - **BMI Calculator**: A simple tool to calculate Body Mass Index (BMI).  
@@ -16,10 +16,10 @@ A collection of beginner-friendly Python projects created for practice and skill
 - **Stopwatch**: A responsive stopwatch application built with PyQt5.  
 - **Weather App**: A Python program to fetch and display weather updates.  
 
-## Purpose:
+## Purpose
 
 These projects were developed as a personal practice exercise to explore the versatility of Python programming. They incorporate various functionalities, making them great resources for learning and improvement.
-## How to use:
+## How to use
 
 1. **Clone this repository**:
   ```bash
