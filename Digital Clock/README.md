@@ -13,7 +13,8 @@ Digital Clock is a Python program that displays the current time in a digital fo
 - PyQt5:
   ```bash
    pip install pyqt5
-## Results
+## Installation
+
 
 1. Clone the repository:
 
@@ -22,6 +23,6 @@ Digital Clock is a Python program that displays the current time in a digital fo
     cd digital-clock
     ```
     
-2. Run the bank account simulation:
+2. Run the digital clock:
      ```bash
         python digital_clock.py
