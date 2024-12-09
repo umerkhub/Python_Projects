@@ -11,7 +11,8 @@ Snake Water Gun Game is a simple Python implementation of the classic game "Rock
 
 - Python 3.x
 
-## Results
+## Installation
+
 
 1. Clone the repository:
 
@@ -20,6 +21,6 @@ Snake Water Gun Game is a simple Python implementation of the classic game "Rock
     cd snake-water-gun-game
     ```
     
-2. Run the bank account simulation:
+2. Run the game:
      ```bash
         python snake_water_gun_game.py
