@@ -11,7 +11,8 @@ Perfect Guess is a Python number-guessing game where the user tries to guess a r
 
 - Python 3.x
 
-## Results
+## Installation
+
 
 1. Clone the repository:
 
@@ -20,6 +21,6 @@ Perfect Guess is a Python number-guessing game where the user tries to guess a r
     cd perfect-guess-game
     ```
     
-2. Run the bank account simulation:
+2. Run the guess game:
      ```bash
         python perfect_guess_game.py
