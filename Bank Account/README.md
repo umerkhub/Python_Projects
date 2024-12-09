@@ -11,7 +11,8 @@ Bank Account is a basic Python simulation of banking operations like deposit, wi
 ## Requirements
 
 - Python 3.x
-## Results
+## Installation
+
 
 1. Clone the repository:
 
