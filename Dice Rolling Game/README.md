@@ -20,6 +20,6 @@ Dice Rolling Game is a simple Python game where the program simulates rolling a 
     cd dice-rolling-game
     ```
     
-2. Run the bank account simulation:
+2. Run the dice rolling game:
      ```bash
         python dice_rolling_game.py
