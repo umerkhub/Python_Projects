@@ -11,7 +11,7 @@ Dice Rolling Game is a simple Python game where the program simulates rolling a 
 
 - Python 3.x
 
-## Results
+## Installation
 
 1. Clone the repository:
 
