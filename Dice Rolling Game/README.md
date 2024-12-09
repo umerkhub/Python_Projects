@@ -1,27 +1,25 @@
 
-# Digital Clock
+# Dice Rolling Game
 
-Digital Clock is a Python program that displays the current time in a digital format. It uses PyQt5 to create a graphical user interface (GUI) and updates the time in real-time.
+Dice Rolling Game is a simple Python game where the program simulates rolling a die. The user can roll the die multiple times, and the program will display the result.
 
 ## Features
 
-- Real-Time Display: Displays the current time in hours, minutes, and seconds.
-- Customizable Interface: Can be easily customized for different time formats and styles.
+- Random Dice Rolls: Simulates the rolling of a 6-sided die.
+- User Interaction: Prompts the user to roll the dice.
 ## Requirements
 
 - Python 3.x
-- PyQt5:
-  ```bash
-   pip install pyqt5
+
 ## Results
 
 1. Clone the repository:
 
     ```bash
     git clone <repository-link>
-    cd digital-clock
+    cd dice-rolling-game
     ```
     
 2. Run the bank account simulation:
      ```bash
-        python digital_clock.py
+        python dice_rolling_game.py
