@@ -12,7 +12,7 @@ Weather App is a Python program that fetches weather data from an online API and
 - Python 3.x
 - Required libraries:
  ```bash
-   pip install requests
+   pip install requests, PyQt5
  ```
 ## Installation
 
